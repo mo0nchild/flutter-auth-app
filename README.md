@@ -1,6 +1,6 @@
 # flutter_auth
 
-A new Flutter project.
+Flutter + MongoDB
 
 ## Getting Started
 
