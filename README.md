@@ -1,6 +1,6 @@
 # flutter_auth
 
-Flutter + MongoDB
+Flutter + MongoDB Application for Windows 
 
 ## Getting Started
 
